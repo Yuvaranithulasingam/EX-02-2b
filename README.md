@@ -1,4 +1,4 @@
-# EX-02-2b   TRIANGULAR PATTERN
+# EX-2(B)   TRIANGULAR PATTERN
 
 ## AIM:
  To write a C program to print the given triangular pattern using loop.
